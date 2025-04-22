@@ -105,5 +105,5 @@ This project demonstrates the effectiveness of multimodal Transformer architectu
 Here’s a look at the Gradio interface used to test audio commands:
 
 
-![Gradio Demo](assets/demo_screenshot.png)
+![Gradio Demo](assests/demo_screenshot.png)
 
